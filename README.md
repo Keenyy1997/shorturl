@@ -1,5 +1,7 @@
 ## URL SHORTED
 
+*Description*: 
+`URL SHORTED` is a simple url shortener application
 - [Backend Repository](https://github.com/Keenyy1997/shorturl-ts-back)
 - [Frontend Repository](https://github.com/Keenyy1997/shorturl-react-front)
 
